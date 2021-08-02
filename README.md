@@ -9,8 +9,8 @@
 </p>
 
  ### 🤔 Mas o que é isso? 
- 🇧🇷 Gerador de citações de animes famosos usando o famoso framework Vue 3.
- 🇬🇧 Famous anime quote generator using the famous Vue 3 framework
+ 🇧🇷 Gerador de citações de animes famosos usando o famoso framework Vue 3. <br>
+ 🇬🇧 Famous anime quote generator using the famous Vue 3 framework. <br>
 
 
 🇧🇷 💫 Chamada para [API](https://animechan.vercel.app/) de citações de Animes. <br>
