@@ -5,8 +5,8 @@
   </h1>
   
   <p align="center">
-![image](https://user-images.githubusercontent.com/55573363/127792073-546526a3-e09e-42a0-8139-bb9666e83b13.png)
-  </p>
+<img src="https://user-images.githubusercontent.com/55573363/127792278-f30783f7-cf48-467f-96ec-bfcc5f36d312.png" alt="Pablo Batista Vue Quote Anime" />
+</p>
 
  ### 🤔 Mas o que é isso? 
  🇧🇷 Gerador de citações de animes famosos usando o famoso framework Vue 3.
@@ -57,4 +57,4 @@ _________
 
 👤 **Pablo Batista**
 * Github: [@pabrul](https://github.com/pabrul)
-* Linkedin: [@pabrul](linkedin.com/in/pablo-batista-16a7a7180/)
+* Linkedin: [pabrul](linkedin.com/in/pablo-batista-16a7a7180/)
