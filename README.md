@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-  ![image](https://user-images.githubusercontent.com/55573363/127791334-ab6c6ca3-0e97-49b7-9220-4fb0f05811e5.png)
+![image](https://user-images.githubusercontent.com/55573363/127792027-b5952906-9a6c-4388-bf92-7edf2566eda7.png)
   </p>
 
 ### 🤔 Mas o que é isso? 
